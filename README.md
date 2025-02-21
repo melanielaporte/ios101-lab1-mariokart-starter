@@ -1,4 +1,4 @@
-## Lab 1: Mariokart Starter Project
+## Lab 1: Mariokart App Starter Project
 
 ### Overview
 
